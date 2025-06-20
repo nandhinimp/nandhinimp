@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h2 align="center">Hey, I’m Nandhini M P 👋</h2>
+<h2 align="center">Hey, I’m Nandhini 👋</h2>
 <p align="center"><i>Full Stack Developer | Java Lover | Making Complex Simple</i></p>
 
 ---
@@ -12,7 +12,7 @@
 ⚡️ Driven by creativity, I transform ideas into seamless digital experiences.
 
 ### 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <!-- Gmail -->
   <a href="mailto:nandz407@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" title="Email me" width="40" />
