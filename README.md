@@ -15,11 +15,13 @@
 <p align="left">
   <!-- Gmail -->
   <a href="mailto:nandz407@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" title="Email me" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" title="Email me" width="30" />
   </a>
+<br>
+<br>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nandhini-m-b00801314/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="Connect on LinkedIn" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="Connect on LinkedIn" width="30" />
   </a>
 </p>
 
